@@ -1,0 +1,11 @@
+C:\Users\Иван\Desktop\StegProject-master\bin\Debug\StegProject.exe.config
+C:\Users\Иван\Desktop\StegProject-master\bin\Debug\StegProject.exe
+C:\Users\Иван\Desktop\StegProject-master\bin\Debug\StegProject.pdb
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.Form1.resources
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.Properties.Resources.resources
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.exe
+C:\Users\Иван\Desktop\StegProject-master\obj\x86\Debug\StegProject.pdb
